@@ -37,7 +37,8 @@ const cranex = {
 
 
 
-healCharacter( cranex, 10);
+healCharacter( cranex, 20);
 
+console.log(cranex)
 
 export{}
